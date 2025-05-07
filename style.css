@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Young Serif", serif;
+}
+
+.container {
+    padding: 40px;
+}
+
+.section-one {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px
+}
+
+.section-one__contact {
+    display: inline-block;
+    background-color: beige;
+    color: black;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.section-one__Home {
+    display: inline-block;
+    background-color: beige;
+    color: black;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.section-one__name {
+    font-size: 40px;
+}
+
+.section-one__role {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    margin-top: 20px;
+}
+
+.section-two__para,
+.section-three__list,
+.section-four__list,
+.section-five __para,
+.section-five__footer {
+    margin-top: 10px;
+}
+
+.section-five {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.section-five__para a {
+    color: blueviolet;
+}
+
+.section-five__socialmedia a {
+    color: blueviolet;
+}
+
+.section-three__list,
+.section-four__list {
+    list-style-type: none;
+}
+
+.section-three {
+    display: inline-block;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 10px;
+    height: 200px;
+    vertical-align: top;
+}
+
+.section-four {
+    display: inline-block;
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 10px;
+    height: 200px;
+    vertical-align: top;
+}
+
+.contact-form {
+    margin-top: 20px;
+}
+
+.contact-form__input,
+.contact-form__textarea,
+.contact-form__submit {
+    margin-top: 10px;
+}
+
+.contact-form__input {
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact-form__textarea {
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact-form__submit {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: cornflowerblue;
+    border: none;
+border-radius: 4px;}
