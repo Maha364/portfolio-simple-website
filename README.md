@@ -11,5 +11,5 @@ It includes a clean **Home page** that introduces who I am and a **Contact page*
 
 Perfect for showcasing design basics and web layout structure.
 
-🔗 [Live Demo](your-live-link-here)
+🔗 
 
